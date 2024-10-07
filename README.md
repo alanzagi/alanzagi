@@ -1,15 +1,15 @@
-# Hi, I'm Alan Zagi! 👋
+# Hi, I'm Alan "Zagi"! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on [Your Main Skills/Technologies]. I love working on open-source projects and collaborating with others to create innovative solutions.
+Welcome to my GitHub profile! I'm a web developer with a focus on Web Development. I love working on open-source projects and collaborating with others to create innovative solutions.
 
 ## 🔧 Skills
-- **Languages:** [PHP, JS, NodeJS]
-- **Frameworks:** [Laravel, ReactJS,]
-- **Tools:** [ExpressJS, NPM, Postman ]
-- **Databases:** [MySQL, PostgreSQL, SQLite]
+- **Languages:** [PHP, Javascript]
+- **Frameworks:** [Laravel, TailwindCSS]
+- **Tools:** [NPM]
+- **Databases:** [SQLite]
 
 ## 🌱 Currently Learning
-- [Laravel]
+- [Python]
 - [ReactJS]
 
 ## 📈 GitHub Stats
@@ -18,27 +18,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on [Your M
 ## 🛠️ Projects
 Here are some of my notable projects:
 
-1. **[Project Name 1](link-to-your-project)**
-   - Brief description of the project.
-
-2. **[Project Name 2](link-to-your-project)**
-   - Brief description of the project.
-
-3. **[Project Name 3](link-to-your-project)**
-   - Brief description of the project.
+1. **[Makmur Catering](https://github.com/alanzagi/makmurcatering/)**
+   - Company Profile + Ordering Website with feature: Storing Data to Google Sheet; and Auto Generate Receipt Detail to Company's Whatsapp
+  
+## Buy me an Ice Cream
+If you're helped by the open source projects in my repository, You can start supporting by bought me an ice cream for Rp10.000 / 0.64 USD  
+Thank you very much!
 
 ## 💬 Get in Touch
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-handle)
-- Email: [your-email@example.com]
+- [Instagram](https://instagram.com/alanzagi)
+- [Facebook](https://facebook.com/alanzagi)
+- Email: [alanzagi@hotmail.com]
 
 Feel free to reach out to me if you'd like to collaborate or just want to say hi!
-
-## How to Add This to Your GitHub Profile
-
-1. Create a new repository named `alanzagi` (this should match your GitHub username).
-2. Add a file named `README.md` in the repository.
-3. Copy and paste the content above into the `README.md` file.
-4. Commit your changes and push to the main branch.
-
-Your profile will now display this information! Happy coding!
