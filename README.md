@@ -28,6 +28,6 @@ Thank you very much!
 ## 💬 Get in Touch
 - [Instagram](https://instagram.com/alanzagi)
 - [Facebook](https://facebook.com/alanzagi)
-- [alanzagi@hotmail.com]
+- alanzagi@hotmail.com
 
 Feel free to reach out to me if you'd like to collaborate or just want to say hi!
