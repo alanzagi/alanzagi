@@ -3,17 +3,18 @@
 Welcome to my GitHub profile! I'm a web developer with a focus on Web Development. I love working on open-source projects and collaborating with others to create innovative solutions.
 
 ## 🔧 Skills
-- **Languages:** PHP; Javascript;
-- **Frameworks:** Laravel; TailwindCSS;
-- **Tools:** NPM;
-- **Databases:** SQLite;
+<a href="https://github.com/alanzagi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanzagi&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</a>
 
 ## 🌱 Currently Learning
 - **Languages:** Python;  
 - **Frameworks:** ReactJS;
 
 ## 📈 GitHub Stats
-![Here](https://github-readme-stats.vercel.app/api?username=alanzagi&show_icons=true&theme=radical)
+<a href="https://github.com/alanzagi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanzagi&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
 
 ## 🛠️ Projects
 Here are some of my notable projects:
