@@ -1,4 +1,4 @@
-# Hi, I'm Alan "Zagi"! 👋
+# Hi, I'm Alan "Zagis"! 👋
 
 Welcome to my GitHub profile! I'm a web developer with a focus on Web Development. I love working on open-source projects and collaborating with others to create innovative solutions.
 
