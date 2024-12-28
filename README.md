@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a web developer with a focus on Web Developmen
 </a>
 
 ## 🌱 Currently Work With
-- **Languages:** PHP;  
+- **Languages:** PHP, Javascript;  
 - **Frameworks:** Laravel, TailwindCSS;
 
 ## 📈 GitHub Stats
