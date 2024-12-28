@@ -12,7 +12,9 @@ Welcome to my GitHub profile! I'm a web developer with a focus on Web Developmen
 - **Frameworks:** Laravel, TailwindCSS;
 
 ## 📈 GitHub Stats
-
+<a href="https://github.com/alanzagi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanzagi&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
 
 ## 🛠️ Projects
 Here are some of my notable projects:
