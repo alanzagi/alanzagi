@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a web developer with a focus on Web Development. I love working on open-source projects and collaborating with others to create innovative solutions.
 
-## 🔧 Skills
+## 🔧 Tech Stack
 <a href="https://github.com/alanzagi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanzagi&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
@@ -23,6 +23,10 @@ Here are some of my notable projects:
    - Company Profile + Ordering Website with feature:  
      Storing Data to Google Sheet;   
      and Auto Generate Receipt Detail to Company's Whatsapp;
+2. **[LANKAS](https://github.com/alanzagi/LANKAS)**
+   - Money Class Management with feature:  
+     Manage income and expenditure of money;  
+     and auto generate report of budgetting;
   
 ## 🎁 Buy me an Ice Cream
 If you're helped by these open source projects in my repositories,  
