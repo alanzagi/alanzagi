@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a web developer with a focus on Web Developmen
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanzagi&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
 
-## 🌱 Currently Learning
-- **Languages:** Python;  
-- **Frameworks:** ReactJS;
+## 🌱 Currently Work With
+- **Languages:** PHP;  
+- **Frameworks:** Laravel, TailwindCSS;
 
 ## 📈 GitHub Stats
 <a href="https://github.com/alanzagi">
