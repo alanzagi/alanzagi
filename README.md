@@ -1,10 +1,16 @@
 # Hi, I'm Alan Zagi! 👋
 
-Welcome to my GitHub profile! I'm a web developer with a focus on Web Development. I love working on open-source projects and collaborating with others to create innovative solutions.
+I'm a Software Engineer and CEO of a company specializing in web pages and web applications. With a strong passion for clean code and scalable architecture, I focus on building robust digital solutions that drive real-world impact.
+
+I’m actively involved in open-source projects, enjoy collaborating with developers across the globe, and constantly seek opportunities to push the boundaries of modern web development—both frontend and backend.
+
+Feel free to explore my repositories to see what I’m working on, and don’t hesitate to connect!
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🔧 Tech Stack
 <a href="https://github.com/alanzagi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanzagi&layout=compact&theme=chartreuse-dark&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanzagi&layout=compact&theme=midnight-purple&langs_count=8" />
 </a>
 
 ## 🌱 Currently Work With
@@ -13,7 +19,8 @@ Welcome to my GitHub profile! I'm a web developer with a focus on Web Developmen
 
 ## 📈 GitHub Stats
 <a href="https://github.com/alanzagi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanzagi&count_private=true&show_icons=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanzagi&count_private=true&show_icons=true&theme=midnight-purple" /><br><br>
+  <img src="https://nirzak-streak-stats.vercel.app?user=alanzagi&theme=midnight-purple&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </a>
 
 ## 🛠️ Projects
