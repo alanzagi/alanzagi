@@ -1,6 +1,6 @@
 # Hi, I'm Alan Zagi! 👋
 
-I'm a Software Engineer and CEO of a company specializing in web pages and web applications. With a strong passion for clean code and scalable architecture, I focus on building robust digital solutions that drive real-world impact.
+I'm a Software Engineer and CEO of Veradev Digital Agency, a company specializing in web pages and web applications. With a strong passion for clean code and scalable architecture, I focus on building robust digital solutions that drive real-world impact.
 
 I’m actively involved in open-source projects, enjoy collaborating with developers across the globe, and constantly seek opportunities to push the boundaries of modern web development—both frontend and backend.
 
